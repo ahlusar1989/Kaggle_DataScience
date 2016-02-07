@@ -1,0 +1,45 @@
+{
+  "name": "SF Data",
+  "version": "0",
+  "authors": [
+    "Saran Ahluwalia"
+  ],
+  "description": "An experiment with SF Open Data",
+  "keywords": [
+    "bootstrap",
+    "d3",
+    "crossfilter",
+    "San Francisco"
+  ],
+  "license": "Apache",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests",
+    "pages",
+    "index.html",
+    "/js"
+  ],
+  "dependencies": {
+    "bootstrap": "~3.3.6",
+    "font-awesome": "~4.2.0",
+    "bootstrap-social": "~4.8.0",
+    "jquery": "~2.1.1",
+    "angular-animate": "~1.3.4",
+    "angular-cookies": "~1.3.4",
+    "angular-touch": "~1.3.4",
+    "angular-sanitize": "~1.3.4",
+    "angular-ui-router": "~0.2.13",
+    "angular-material": "0.10.0",
+    "angular": "1.3.15",
+    "angular-nvd3": "1.0.0-rc.2",
+    "lodash": "~2",
+    "dcjs": "2.0.0-beta.3",
+    "crossfilter": "~1.3.0"
+  },
+  "resolutions": {
+    "angular": "1.3.15"
+  }
+}

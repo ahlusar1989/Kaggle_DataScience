@@ -1,0 +1,150 @@
+<!DOCTYPE html>
+<html lang='en'>
+<head>
+  <meta charset='utf-8'>
+
+  <title>The United Kingdom</title>
+   <!-- d3.js -->
+  <script charset="utf-8" src="http://d3js.org/d3.v3.min.js"></script>
+   <!-- Crossfilter -->
+  <script src='./javascripts/crossfilter.js' type='text/javascript'></script>
+   <!-- dc.js -->
+  <script src='http://cdnjs.cloudflare.com/ajax/libs/dc/1.7.5/dc.min.js' type='text/javascript'></script>
+   <!-- jQuery min.js-->
+  <script src='./javascripts/jquery-1.9.1.min.js' type='text/javascript'></script>
+ <!-- Bootstrap Min.js-->
+  <script src='./javascripts/bootstrap.min.js' type='text/javascript'></script>
+   <!-- d3-tip-->
+  <script src="http://labratrevenge.com/d3-tip/javascripts/d3.tip.v0.6.3.js"></script>
+  <link href='./stylesheets/bootstrap.min.css' rel='stylesheet' type='text/css'>
+   <!-- dc.min.css -->
+  <link href='http://cdnjs.cloudflare.com/ajax/libs/dc/1.7.5/dc.min.css' rel='stylesheet' type='text/css'>
+    <!-- Bootstrap Core CSS -->
+  <link href="./bower_components/bootstrap/dist/css/bootstrap.min.css" rel="stylesheet">
+
+  <!-- Custom Fonts -->
+  <link href="./bower_components/font-awesome/css/font-awesome.min.css" rel="stylesheet" type="text/css">
+
+<!--   <link rel="stylesheet" href="//rawgithub.com/Caged/d3-tip/master/examples/example-styles.css"> -->
+
+  <script src="//d3js.org/topojson.v1.min.js"></script>
+
+<!--   // <script type="text/javascript" src="./core/bar.js"></script>
+  // <script type="text/javascript" src="./core/csv.js"></script> -->
+
+  
+<style>
+
+.subunit.SCT { fill: #ddc; }
+.subunit.WLS { fill: #cdd; }
+.subunit.NIR { fill: #cdc; }
+.subunit.ENG { fill: #dcd; }
+.subunit.IRL { display: none; }
+
+
+.subunit-boundary {
+  fill: none;
+  stroke: #777;
+  stroke-dasharray: 2,2;
+  stroke-linejoin: round;
+}
+
+.subunit-boundary.IRL {
+  stroke: #aaa;
+}
+
+.place,
+.place-label {
+  fill: #444;
+}
+
+text {
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-size: 10px;
+  pointer-events: none;
+}
+
+</style>
+</head>
+<body>
+
+<!-- <div id = "barChart"></div>
+<div id = "lineChart"></div> -->
+<script type = "text/javascript">
+
+
+// Create SVG before d3.json callback. That’s because d3.json is asynchronous: the rest of the page will render while we wait for the TopoJSON file to download. Creating the empty SVG root when the page first loads avoids distracting reflow when the geometry finally arrives.
+
+//The call back does the following
+
+// We need two more things to render geography: a projection and a path generator. As its name implies, the projection projects spherical coordinate to the Cartesian plane. This is needed to display spherical geometry on a 2D screen. The path generator takes the projected 2D geometry and formats it appropriately for SVG or Canvas.
+
+
+
+var width = 960,
+    height = 1160;
+
+var projection = d3.geo.albers()
+    .center([0, 55.4])
+    .rotate([4.4, 0])
+    .parallels([50, 60])
+    .scale(1200 * 5)
+    .translate([width / 2, height / 2]);
+
+var path = d3.geo.path()
+    .projection(projection)
+    .pointRadius(2);
+
+var svg = d3.select("body").append("svg")
+    .attr("width", width)
+    .attr("height", height);
+
+d3.json("./data/uk.json", function(error, uk) {
+  svg.selectAll(".subunit")
+      .data(topojson.feature(uk, uk.objects.subunits).features)
+    .enter().append("path")
+      .attr("class", function(d) { return "subunit " + d.id; })
+      .attr("d", path);
+
+
+// We can also compute the "class" attribute as a function of data, so that in addition to the subunit class, each country has a three-letter class corresponding to its ISO-3166 alpha-3 country code. These allow us to apply separate fill styles for each country (see styles, above)
+
+
+// Use topojson.mesh to compute the boundaries from the topology. This requires two arguments: the topology and a constituent geometry object. An optional filter can reduce the set of returned boundaries, taking two arguments a and b representing the two features on either side of the boundary. For exterior boundaries such as coastlines, a and b are the same. Thus by filtering on a === b or a !== b, we obtain exterior or interior boundaries exclusively.
+
+//Adding Interior boundries
+
+
+  svg.append("path")
+      .datum(topojson.mesh(uk, uk.objects.subunits, function(a, b) { return a !== b && a.id !== "IRL"; }))
+      .attr("d", path)
+      .attr("class", "subunit-boundary");
+
+  svg.append("path")
+      .datum(topojson.mesh(uk, uk.objects.subunits, function(a, b) { return a === b && a.id === "IRL"; }))
+      .attr("d", path)
+      .attr("class", "subunit-boundary IRL");
+
+  svg.append("path")
+      .datum(topojson.feature(uk, uk.objects.places))
+      .attr("d", path)
+      .attr("class", "place");
+
+  svg.selectAll(".place-label")
+      .data(topojson.feature(uk, uk.objects.places).features)
+    .enter().append("text")
+      .attr("class", "place-label")
+      .attr("transform", function(d) { return "translate(" + projection(d.geometry.coordinates) + ")"; })
+      .attr("x", function(d) { return d.geometry.coordinates[0] > -1 ? 6 : -6; })
+      .attr("dy", ".35em")
+      .style("text-anchor", function(d) { return d.geometry.coordinates[0] > -1 ? "start" : "end"; })
+      .text(function(d) { return d.properties.name; });
+});
+
+
+
+
+</script>  
+</body>
+</html>
+

@@ -1,0 +1,1279 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-122.425891675136,
+					37.7745985956747
+				]
+			},
+			"properties": {
+				"name": "OAK ST / LAGUNA ST"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-122.425891675136,
+					37.7745985956747
+				]
+			},
+			"properties": {
+				"name": "OAK ST / LAGUNA ST"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-122.42436302145,
+					37.8004143219856
+				]
+			},
+			"properties": {
+				"name": "VANNESS AV / GREENWICH ST"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-122.42699532676599,
+					37.80087263276921
+				]
+			},
+			"properties": {
+				"name": "1500 Block of LOMBARD ST"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-122.438737622757,
+					37.771541172057795
+				]
+			},
+			"properties": {
+				"name": "100 Block of BRODERICK ST"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-122.40325236121201,
+					37.713430704116
+				]
+			},
+			"properties": {
+				"name": "0 Block of TEDDY AV"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-122.423326976668,
+					37.7251380403778
+				]
+			},
+			"properties": {
+				"name": "AVALON AV / PERU AV"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-122.371274317441,
+					37.7275640719518
+				]
+			},
+			"properties": {
+				"name": "KIRKWOOD AV / DONAHUE ST"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-122.508194031117,
+					37.776601260681204
+				]
+			},
+			"properties": {
+				"name": "600 Block of 47TH AV"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-122.419087676747,
+					37.8078015516515
+				]
+			},
+			"properties": {
+				"name": "JEFFERSON ST / LEAVENWORTH ST"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-122.419087676747,
+					37.8078015516515
+				]
+			},
+			"properties": {
+				"name": "JEFFERSON ST / LEAVENWORTH ST"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-122.487983072777,
+					37.737666654332706
+				]
+			},
+			"properties": {
+				"name": "0 Block of ESCOLTA WY"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-122.41241426358101,
+					37.7830037964534
+				]
+			},
+			"properties": {
+				"name": "TURK ST / JONES ST"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-122.432914603494,
+					37.7843533426568
+				]
+			},
+			"properties": {
+				"name": "FILLMORE ST / GEARY BL"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-122.397744427103,
+					37.7299346936044
+				]
+			},
+			"properties": {
+				"name": "200 Block of WILLIAMS AV"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-122.38369150395901,
+					37.7431890419965
+				]
+			},
+			"properties": {
+				"name": "0 Block of MENDELL ST"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-122.412597377187,
+					37.783932027727296
+				]
+			},
+			"properties": {
+				"name": "EDDY ST / JONES ST"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-122.421681531572,
+					37.7428222004845
+				]
+			},
+			"properties": {
+				"name": "GODEUS ST / MISSION ST"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-122.38640086995301,
+					37.738983491072
+				]
+			},
+			"properties": {
+				"name": "MENDELL ST / HUDSON AV"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-122.412249767634,
+					37.782556330202
+				]
+			},
+			"properties": {
+				"name": "100 Block of JONES ST"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-122.449389111284,
+					37.7426688025766
+				]
+			},
+			"properties": {
+				"name": "200 Block of EVELYN WY"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-122.420272135283,
+					37.7473316298785
+				]
+			},
+			"properties": {
+				"name": "1600 Block of VALENCIA ST"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-122.412249767634,
+					37.782556330202
+				]
+			},
+			"properties": {
+				"name": "100 Block of JONES ST"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-122.412249767634,
+					37.782556330202
+				]
+			},
+			"properties": {
+				"name": "100 Block of JONES ST"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-122.43604920358601,
+					37.79984122288229
+				]
+			},
+			"properties": {
+				"name": "FILLMORE ST / LOMBARD ST"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-122.41050925879499,
+					37.786043222299206
+				]
+			},
+			"properties": {
+				"name": "300 Block of OFARRELL ST"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-122.43101755702699,
+					37.7873880712241
+				]
+			},
+			"properties": {
+				"name": "2000 Block of BUSH ST"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-122.42365634294501,
+					37.7325564882065
+				]
+			},
+			"properties": {
+				"name": "500 Block of COLLEGE AV"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-122.475773497852,
+					37.744919069591
+				]
+			},
+			"properties": {
+				"name": "19TH AV / SANTIAGO ST"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-122.49978712069,
+					37.74851760347229
+				]
+			},
+			"properties": {
+				"name": "2000 Block of 41ST AV"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-122.431046366089,
+					37.7830295716044
+				]
+			},
+			"properties": {
+				"name": "1300 Block of WEBSTER ST"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-122.43515009981199,
+					37.7617597243598
+				]
+			},
+			"properties": {
+				"name": "400 Block of CASTRO ST"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-122.432743822617,
+					37.7838424505847
+				]
+			},
+			"properties": {
+				"name": "1500 Block of FILLMORE ST"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-122.431309540727,
+					37.7858706272526
+				]
+			},
+			"properties": {
+				"name": "1600 Block of WEBSTER ST"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-122.431309540727,
+					37.7858706272526
+				]
+			},
+			"properties": {
+				"name": "1600 Block of WEBSTER ST"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-122.391845617192,
+					37.778124778322
+				]
+			},
+			"properties": {
+				"name": "KING ST / 3RD ST"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-122.431830723792,
+					37.7956417032576
+				]
+			},
+			"properties": {
+				"name": "VALLEJO ST / BUCHANAN ST"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-122.43055177980101,
+					37.7893227716214
+				]
+			},
+			"properties": {
+				"name": "CALIFORNIA ST / BUCHANAN ST"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-122.47318202955799,
+					37.7215647406201
+				]
+			},
+			"properties": {
+				"name": "1400 Block of HOLLOWAY AV"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-122.432446462853,
+					37.7108326541075
+				]
+			},
+			"properties": {
+				"name": "0 Block of WINDING WY"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-122.405294845215,
+					37.7863072236365
+				]
+			},
+			"properties": {
+				"name": "700 Block of MARKET ST"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-122.422127579529,
+					37.7730330183515
+				]
+			},
+			"properties": {
+				"name": "1600 Block of MARKET ST"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-122.406351834294,
+					37.7860311576362
+				]
+			},
+			"properties": {
+				"name": "0 Block of STOCKTON ST"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-122.39944365894199,
+					37.73017601616471
+				]
+			},
+			"properties": {
+				"name": "300 Block of WILLIAMS AV"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-122.39944365894199,
+					37.73017601616471
+				]
+			},
+			"properties": {
+				"name": "300 Block of WILLIAMS AV"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-122.415212031352,
+					37.788871449843
+				]
+			},
+			"properties": {
+				"name": "800 Block of LEAVENWORTH ST"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-122.423702325261,
+					37.7352327878159
+				]
+			},
+			"properties": {
+				"name": "0 Block of CRESCENT AV"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-122.471799827428,
+					37.765686698829796
+				]
+			},
+			"properties": {
+				"name": "LINCOLN WY / 14TH AV"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-122.408597386677,
+					37.789224205873
+				]
+			},
+			"properties": {
+				"name": "SUTTER ST / POWELL ST"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-122.44776112232,
+					37.7698464875415
+				]
+			},
+			"properties": {
+				"name": "1500 Block of HAIGHT ST"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-122.39869558968901,
+					37.7547456011189
+				]
+			},
+			"properties": {
+				"name": "23RD ST / WISCONSIN ST"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-122.39869558968901,
+					37.7547456011189
+				]
+			},
+			"properties": {
+				"name": "23RD ST / WISCONSIN ST"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-122.40328484310601,
+					37.787306416019
+				]
+			},
+			"properties": {
+				"name": "0 Block of 3RD ST"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-122.397615567933,
+					37.7773918242817
+				]
+			},
+			"properties": {
+				"name": "500 Block of BRANNAN ST"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-122.420347208832,
+					37.771769072224394
+				]
+			},
+			"properties": {
+				"name": "OTIS ST / GOUGH ST"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-122.399802145799,
+					37.78800653243921
+				]
+			},
+			"properties": {
+				"name": "MISSION ST / 2ND ST"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-122.421395819115,
+					37.7856843389472
+				]
+			},
+			"properties": {
+				"name": "GEARY ST / VANNESS AV"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-122.41127918996901,
+					37.7715785765043
+				]
+			},
+			"properties": {
+				"name": "HARRISON ST / 10TH ST"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-122.42799115191099,
+					37.78495312416121
+				]
+			},
+			"properties": {
+				"name": "GEARY BL / LAGUNA ST"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-122.40071978579701,
+					37.7907124695865
+				]
+			},
+			"properties": {
+				"name": "0 Block of SANSOME ST"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-122.40071978579701,
+					37.7907124695865
+				]
+			},
+			"properties": {
+				"name": "0 Block of SANSOME ST"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-122.41292895522,
+					37.7896868265784
+				]
+			},
+			"properties": {
+				"name": "900 Block of BUSH ST"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-122.41292895522,
+					37.7896868265784
+				]
+			},
+			"properties": {
+				"name": "900 Block of BUSH ST"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-122.39509777418101,
+					37.79405904855621
+				]
+			},
+			"properties": {
+				"name": "0 Block of MARKET ST"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-122.411636621857,
+					37.77178693506389
+				]
+			},
+			"properties": {
+				"name": "300 Block of 10TH ST"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-122.474899151688,
+					37.7269905309861
+				]
+			},
+			"properties": {
+				"name": "19TH AV / WINSTON DR"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-122.416235852379,
+					37.784912573847606
+				]
+			},
+			"properties": {
+				"name": "400 Block of HYDE ST"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-122.416235852379,
+					37.784912573847606
+				]
+			},
+			"properties": {
+				"name": "400 Block of HYDE ST"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-122.416235852379,
+					37.784912573847606
+				]
+			},
+			"properties": {
+				"name": "400 Block of HYDE ST"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-122.395985970867,
+					37.77883482056821
+				]
+			},
+			"properties": {
+				"name": "400 Block of BRANNAN ST"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-122.395985970867,
+					37.77883482056821
+				]
+			},
+			"properties": {
+				"name": "400 Block of BRANNAN ST"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-122.434121356001,
+					37.7860330497327
+				]
+			},
+			"properties": {
+				"name": "2000 Block of SUTTER ST"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-122.397136217367,
+					37.7228049825201
+				]
+			},
+			"properties": {
+				"name": "100 Block of PAUL AV"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-122.42257233421302,
+					37.7487740050495
+				]
+			},
+			"properties": {
+				"name": "26TH ST / GUERRERO ST"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-122.406958660602,
+					37.789434763003996
+				]
+			},
+			"properties": {
+				"name": "STOCKTON ST / SUTTER ST"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-122.41967661615,
+					37.7658510977435
+				]
+			},
+			"properties": {
+				"name": "1900 Block of MISSION ST"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-122.41967661615,
+					37.7658510977435
+				]
+			},
+			"properties": {
+				"name": "1900 Block of MISSION ST"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-122.442496487593,
+					37.7604858807114
+				]
+			},
+			"properties": {
+				"name": "4600 Block of 18TH ST"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-122.39641145553401,
+					37.779187614727
+				]
+			},
+			"properties": {
+				"name": "0 Block of FREELON ST"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-122.41359169556101,
+					37.7638222259421
+				]
+			},
+			"properties": {
+				"name": "17TH ST / TREAT AV"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-122.402042584193,
+					37.797504889833895
+				]
+			},
+			"properties": {
+				"name": "PACIFIC AV / SANSOME ST"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-122.4214269222,
+					37.7946028272407
+				]
+			},
+			"properties": {
+				"name": "1900 Block of POLK ST"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-122.4214269222,
+					37.7946028272407
+				]
+			},
+			"properties": {
+				"name": "1900 Block of POLK ST"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-122.41426339037201,
+					37.78175698479679
+				]
+			},
+			"properties": {
+				"name": "200 Block of GOLDEN GATE AV"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-122.411504150729,
+					37.7477859069595
+				]
+			},
+			"properties": {
+				"name": "3100 Block of HARRISON ST"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-122.43699990716499,
+					37.7791621676229
+				]
+			},
+			"properties": {
+				"name": "1000 Block of SCOTT ST"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-122.513642064265,
+					37.77846921994671
+				]
+			},
+			"properties": {
+				"name": "1000 Block of POINTLOBOS AV"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-122.41793796834801,
+					37.726605136966
+				]
+			},
+			"properties": {
+				"name": "1300 Block of FELTON ST"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-122.432743822617,
+					37.7838424505847
+				]
+			},
+			"properties": {
+				"name": "1500 Block of FILLMORE ST"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-122.405744762009,
+					37.791498082842494
+				]
+			},
+			"properties": {
+				"name": "PINE ST / GRANT AV"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-122.420691386664,
+					37.7814832523537
+				]
+			},
+			"properties": {
+				"name": "600 Block of VANNESS AV"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-122.415088721046,
+					37.7836719564372
+				]
+			},
+			"properties": {
+				"name": "400 Block of EDDY ST"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-122.46699111214399,
+					37.7397231592142
+				]
+			},
+			"properties": {
+				"name": "WESTPORTAL AV / VICENTE ST"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-122.417800615246,
+					37.801268383944
+				]
+			},
+			"properties": {
+				"name": "GREENWICH ST / LEAVENWORTH ST"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-122.420180001306,
+					37.8047896506888
+				]
+			},
+			"properties": {
+				"name": "BAY ST / HYDE ST"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-122.404099929802,
+					37.7288373396427
+				]
+			},
+			"properties": {
+				"name": "SAN BRUNO AV / BURROWS ST"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-122.415014685048,
+					37.750836391743995
+				]
+			},
+			"properties": {
+				"name": "25TH ST / SHOTWELL ST"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-122.40950430935,
+					37.781526271747
+				]
+			},
+			"properties": {
+				"name": "0 Block of 6TH ST"
+			}
+		}
+	]
+}
